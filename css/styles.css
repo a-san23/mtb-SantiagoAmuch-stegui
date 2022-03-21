@@ -10,6 +10,16 @@
     }
 
     /*index*/
+
+header {
+    background-color: rgb(5, 56, 11);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: solid;
+}
+
 .titulo {
     color: white;
     text-align: center;
